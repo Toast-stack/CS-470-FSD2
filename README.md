@@ -6,8 +6,6 @@
 - [Project Overview](#project-overview)
 - [Repository Structure](#repository-structure)
 - [Final Reflection](#final-reflection)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 The CS-470-FSD2 repository is part of the Full Stack Development II course (CS-470) at Southern New Hampshire University (SNHU). This course focuses on advanced full-stack development techniques, with an emphasis on cloud-based application deployment and architecture.
