@@ -30,3 +30,6 @@ The final reflection highlights key skills and knowledge gained in the CS 470 Fu
 * **Microservices & Serverless**: Emphasis on efficiency, scalability, and cost management using tools like Pulseway and Netdata for monitoring.
 * **Cost Management**: Advocated for AWS pay-as-you-go models and highlighted the cost predictability of containers compared to the flexibility of serverless.
 * **Growth Planning**: Focused on elastic resource allocation and adaptive approaches for scaling applications based on demand.
+
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software.
